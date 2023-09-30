@@ -1,10 +1,15 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = 0; j < nums.length - 1; j++) {
-                if (nums[j] > nums[j + 1]) {
-                    swap(nums, j, j + 1);
-                }
+        int i =0 ;
+        
+        while(i<nums.length){
+            int correct = nums[i];
+            
+            if( nums[i] < nums.length && nums[i] != nums[correct]){
+                swap(nums , i , correct);
+            }
+            else{
+                i++;
             }
         }
 
