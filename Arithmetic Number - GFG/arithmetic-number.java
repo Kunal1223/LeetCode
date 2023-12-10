@@ -41,10 +41,10 @@ class Solution {
 
         
         int n = Math.abs(B - A) / Math.abs(C);
-        n = n + 1;
+        // n = n + 1;
 
 
-        if ((A + (n - 1) * C) == B) {
+        if ((A + (n) * C) == B) {
             return 1; 
         }
         
