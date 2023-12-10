@@ -29,25 +29,25 @@ class GFG{
 
 class Solution {
     static int inSequence(int A, int B, int C) {
-        // Check if A is already equal to B
+       
         if (A == B) {
-            return 1; // Return 1 if A is equal to B
+            return 1;
         }
         
-        // Check if A is not equal to B and C is 0 (to avoid division by zero)
+        
         if (A != B && C == 0) {
-            return 0; // Return 0 if A is not equal to B and C is 0
+            return 0; 
         }
 
-        // Calculate the number of terms (n) in the arithmetic sequence
+        
         int n = Math.abs(B - A) / Math.abs(C);
-        n = n + 1; // Increment n by 1
+        n = n + 1;
 
-        // Check if A + (n-1) * C is equal to B
+
         if ((A + (n - 1) * C) == B) {
-            return 1; // Return 1 if the condition is met
+            return 1; 
         }
         
-        return 0; // Return 0 otherwise
+        return 0; 
     }
 }
