@@ -1,19 +1,25 @@
-
 class Solution {
-    public int climbStairs(int n) {
-        int ways = 1;
+    
+    int solve(Map<Integer , Integer> mp , int n){
 
-        for (int i = 1; i <= n / 2; i++) {
-            double sum = 1;
-
-            for (int j = i; j < 2 * i; j++) {
-                sum *= (double)(n - j) / (j - i + 1);
-            }
-
-            ways += sum;
+        if(n == 0 || n == 1){
+            return 1;
         }
-
-        return ways;
+        
+        if(!mp.containsKey(n)){
+            mp.put(n , solve(mp , n-1) + solve(mp,n-2));
+        }
+        
+        return mp.get(n);
+    
+    }
+    
+    
+    public int climbStairs(int n) {
+        
+        Map<Integer , Integer> mp = new HashMap<>();
+        
+        return solve(mp , n);
+        
     }
 }
-
