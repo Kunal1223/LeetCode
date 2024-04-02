@@ -1,17 +1,26 @@
-import java.util.Arrays;
-
 class Solution {
     public boolean isAnagram(String s, String t) {
-        char[] c = s.toCharArray();
-        char[] k = t.toCharArray();
+        if (s.length() != t.length())
+            return false;
         
-        Arrays.sort(c);
-        Arrays.sort(k);
+        int[] count = new int[26]; // Assuming only lowercase English alphabets
         
-        String chec = new String(c);
-        String chek = new String(k);
+        // Increment counts for characters in string s
+        for (char ch : s.toCharArray()) {
+            count[ch - 'a']++;
+        }
         
+        // Decrement counts for characters in string t
+        for (char ch : t.toCharArray()) {
+            count[ch - 'a']--;
+        }
         
-        return chec.equals(chek);
+        // If all counts are zero, the strings are anagrams
+        for (int i = 0; i < 26; i++) {
+            if (count[i] != 0)
+                return false;
+        }
+        
+        return true;
     }
 }
