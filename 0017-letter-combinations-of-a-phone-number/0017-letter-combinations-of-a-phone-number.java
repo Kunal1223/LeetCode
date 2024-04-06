@@ -1,66 +1,35 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        
-        String p="";
-        ArrayList<String>list=new ArrayList<>();
-        
-        if (digits == null || digits.length() == 0) {
-            return new ArrayList();
-            }
 
-        list= pad(p,digits);
-        
-     return list;
+        List<String> list = new ArrayList<>();
+
+        if(digits.length() == 0)
+            return list;
+
+        String combination = "";
+        String [] set  = {"", "" , "abc" , "def" , "ghi" ,"jkl" , "mno" , "pqrs" , "tuv" , "wxyz"};
+
+        allsets(combination , digits , list , set);
+
+        return list;
         
     }
-    
-     public static ArrayList<String> pad(String p, String up) {
-         
-        if (up.isEmpty()) {
-            ArrayList<String>list=new ArrayList<>();
-            list.add(p);
 
-            return list;
-        }
-         
-        int digit = up.charAt(0) - '0';
-        ArrayList<String>ans=new ArrayList<>();
-         
-        if(digit<=6)
-        {
-        for (int i =( (digit - 2) * 3); i < ((digit-1) * 3); i++) {
+    public List<String> allsets(String combination , String digits , List<String> list , String []set){
 
-            char ch = (char) ('a' + i);
-           ans.addAll( pad(p + ch, up.substring(1)));
+        if(digits.isEmpty()){
+            list.add(combination);
         }
-        }
-        if(digit==7)
-        {
-             for (int i =( (digit - 2) * 3); i <=((digit-1) * 3); i++) {
+        else{
 
-            char ch = (char) ('a' + i);
-           ans.addAll( pad(p + ch, up.substring(1)));
-        }
-        }
-        if(digit==8)
-        {
-            for (int i =( (digit - 2) * 3)+1; i <=((digit-1) * 3); i++) {
+        int number = digits.charAt(0) - '0';
+        String letter = set[number];
 
-            char ch = (char) ('a' + i);
-           ans.addAll( pad(p + ch, up.substring(1)));
-         }
+        for(char character : letter.toCharArray()){
+            allsets(combination+character , digits.substring(1) , list , set);
         }
-        if(digit==9)
-        {
-             for (int i =( (digit - 2) * 3)+1; i <=((digit-1) * 3)+1; i++) {
+        }
 
-            char ch = (char) ('a' + i);
-           ans.addAll( pad(p + ch, up.substring(1)));
-             }
-        }             
-        return ans;
-          
-     } 
+        return list;
+    }
 }
- 
-     
