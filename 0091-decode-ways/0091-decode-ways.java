@@ -1,25 +1,32 @@
 class Solution {
     public int numDecodings(String s) {
-        if (s.charAt(0) == '0') {
+        
+        if(s.charAt(0) == '0' ){
             return 0;
         }
-
-        int n = s.length();
-        int[] dp = new int[n + 1];
-        dp[0] = dp[1] = 1;
-
-        for (int i = 2; i <= n; i++) {
-            int one = Character.getNumericValue(s.charAt(i - 1));
-            int two = Integer.parseInt(s.substring(i - 2, i));
-
-            if (1 <= one && one <= 9) {
-                dp[i] += dp[i - 1];
-            }
-            if (10 <= two && two <= 26) {
-                dp[i] += dp[i - 2];
-            }
+        
+        if(s.length() == 1){
+            return 1;
         }
+        
+        int count1 = 1, count2= 1;
+        for(int i = 1; i < s.length() ; i++){
 
-        return dp[n];        
+            int count = 0;
+            if(s.charAt(i) - '0' > 0)
+                count += count2;
+            
+            int n = ((s.charAt(i-1)-'0') * 10 + s.charAt(i) - '0' );
+            
+            if( n >= 10 && n <= 26)
+                count += count1;
+            
+            count1 = count2;
+            count2 = count;
+            
+        }
+        
+        return count2;
+        
     }
 }
