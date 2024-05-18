@@ -1,27 +1,26 @@
 class Solution {
-
-    public int SolveByDynamic(int [][]dp , int i , int j , int m , int n ){
-
-        if(i >= m || j >= n) return 0;
-        if(i == m-1 && j == n-1) return 1;
-
-        if(dp[i][j] != -1) return dp[i][j];
-
-        // int straight = SolveByDynamic(dp , i+1 , j , m , n);
-
-        return dp[i][j] = (SolveByDynamic(dp , i+1 , j , m , n) + SolveByDynamic(dp , i , j+1 , m , n));
+    
+    int SolveByRecursion(int m , int n , int dp[][]){
+        if(m == 0 && n == 0) return 1;
+        if(m < 0 || n < 0) return 0;
+        
+        if(dp[m][n] != -1) return dp[m][n];
+        
+        int left = SolveByRecursion(m , n-1 , dp) ;
+        int up = SolveByRecursion(m-1 , n , dp);
+        
+        return dp[m][n] = (up + left);
     }
-
+    
     public int uniquePaths(int m, int n) {
         
-        int i = 0 , j = 0;
         int dp[][] = new int[m+1][n+1];
-
-        for(int k = 0 ; k < dp.length ; k++){
-            Arrays.fill(dp[k] , -1);
+        
+        for(int a[] : dp){
+            Arrays.fill(a , -1);
         }
-
-        return SolveByDynamic(dp , i , j , m , n);
+        
+        return SolveByRecursion(m-1 , n-1 , dp);
         
     }
 }
