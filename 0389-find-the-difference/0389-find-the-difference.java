@@ -1,17 +1,26 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        char[] ch = s.toCharArray();
-        char[] c = t.toCharArray();
-        char result = 0;
-
-        for (int i = 0; i < ch.length; i++) {
-            result ^= ch[i];
+        
+        if(s.length() == 0) return t.charAt(0);
+        
+        int alphab[] = new int[26];
+        
+        for(int i = 0 ; i  < s.length() ; i++){
+            alphab[s.charAt(i) - 'a']++;
+        }
+        
+        for(int i = 0 ; i < t.length() ; i++){
+            alphab[t.charAt(i) - 'a'] --;
+        }
+        
+        for (int i = 0; i < 26; i++) {
+            if (alphab[i] != 0) {
+                char ans = (char) (i + 'a');
+                return ans;
+            }
         }
 
-        for (int i = 0; i < c.length; i++) {
-            result ^= c[i];
-        }
-
-        return result;
+        
+        return 'a';
     }
 }
