@@ -51,3 +51,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kunal1223/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+# Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kunal1223/LeetCode/tree/master/0206-reverse-linked-list) |
+# Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kunal1223/LeetCode/tree/master/0206-reverse-linked-list) |
