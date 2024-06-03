@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunal1223/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/Kunal1223/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Kunal1223/LeetCode/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Stack
 |  |
 | ------- |
@@ -79,3 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
