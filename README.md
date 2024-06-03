@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Kunal1223/LeetCode/tree/master/0134-gas-station) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunal1223/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -84,4 +85,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Kunal1223/LeetCode/tree/master/0134-gas-station) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
