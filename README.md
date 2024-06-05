@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Kunal1223/LeetCode/tree/master/0134-gas-station) |
 | [0457-circular-array-loop](https://github.com/Kunal1223/LeetCode/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunal1223/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kunal1223/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 # Linked List
 |  |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Kunal1223/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 # Combinatorics
 |  |
@@ -139,3 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Kunal1223/LeetCode/tree/master/0090-subsets-ii) |
+# Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
