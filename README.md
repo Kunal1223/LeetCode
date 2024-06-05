@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kunal1223/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Kunal1223/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Kunal1223/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 # String
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kunal1223/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
 # Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunal1223/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Kunal1223/LeetCode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 # Sliding Window
 |  |
@@ -92,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2050-count-good-numbers](https://github.com/Kunal1223/LeetCode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
 # Number Theory
 |  |
 | ------- |
@@ -125,3 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Kunal1223/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+# Combinatorics
+|  |
+| ------- |
+| [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
