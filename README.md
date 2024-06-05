@@ -80,9 +80,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kunal1223/LeetCode/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/Kunal1223/LeetCode/tree/master/2050-count-good-numbers) |
 # Math
 |  |
 | ------- |
+| [2050-count-good-numbers](https://github.com/Kunal1223/LeetCode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 # Number Theory
 |  |
