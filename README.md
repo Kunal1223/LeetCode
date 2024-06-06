@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunal1223/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2058-concatenation-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kunal1223/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Kunal1223/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 # Dynamic Programming
 |  |
