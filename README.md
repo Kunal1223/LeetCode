@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kunal1223/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kunal1223/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Kunal1223/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
