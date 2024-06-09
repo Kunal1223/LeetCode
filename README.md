@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Kunal1223/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kunal1223/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Kunal1223/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kunal1223/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunal1223/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kunal1223/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Kunal1223/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
 # Two Pointers
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Kunal1223/LeetCode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Kunal1223/LeetCode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Kunal1223/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Matrix
 |  |
