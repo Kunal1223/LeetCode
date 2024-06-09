@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/Kunal1223/LeetCode/tree/master/0009-palindrome-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Kunal1223/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Kunal1223/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Kunal1223/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2050-count-good-numbers](https://github.com/Kunal1223/LeetCode/tree/master/2050-count-good-numbers) |
@@ -176,3 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+# Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Kunal1223/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
