@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Kunal1223/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kunal1223/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-height-checker](https://github.com/Kunal1223/LeetCode/tree/master/1137-height-checker) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Kunal1223/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunal1223/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -192,3 +194,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Kunal1223/LeetCode/tree/master/1137-height-checker) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
