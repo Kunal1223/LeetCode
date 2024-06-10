@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Kunal1223/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1137-height-checker](https://github.com/Kunal1223/LeetCode/tree/master/1137-height-checker) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/0022-generate-parentheses) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kunal1223/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Kunal1223/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Kunal1223/LeetCode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Kunal1223/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 # Greedy
