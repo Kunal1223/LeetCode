@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/Kunal1223/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Kunal1223/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kunal1223/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Kunal1223/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Kunal1223/LeetCode/tree/master/1217-relative-sort-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kunal1223/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 # Heap (Priority Queue)
 |  |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1121-partition-array-for-maximum-sum](https://github.com/Kunal1223/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1137-height-checker](https://github.com/Kunal1223/LeetCode/tree/master/1137-height-checker) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1217-relative-sort-array](https://github.com/Kunal1223/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Kunal1223/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Kunal1223/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Kunal1223/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 # Breadth-First Search
 |  |
