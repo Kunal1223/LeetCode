@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Kunal1223/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/Kunal1223/LeetCode/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0797-rabbits-in-forest](https://github.com/Kunal1223/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
 | [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0457-circular-array-loop](https://github.com/Kunal1223/LeetCode/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0724-find-pivot-index](https://github.com/Kunal1223/LeetCode/tree/master/0724-find-pivot-index) |
+| [0797-rabbits-in-forest](https://github.com/Kunal1223/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
 | [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kunal1223/LeetCode/tree/master/0009-palindrome-number) |
+| [0797-rabbits-in-forest](https://github.com/Kunal1223/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Kunal1223/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Kunal1223/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Kunal1223/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0134-gas-station](https://github.com/Kunal1223/LeetCode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Kunal1223/LeetCode/tree/master/0409-longest-palindrome) |
+| [0797-rabbits-in-forest](https://github.com/Kunal1223/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Kunal1223/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Kunal1223/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
