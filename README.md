@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0457-circular-array-loop](https://github.com/Kunal1223/LeetCode/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
+| [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Kunal1223/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Kunal1223/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
+| [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Kunal1223/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Kunal1223/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Kunal1223/LeetCode/tree/master/1217-relative-sort-array) |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Kunal1223/LeetCode/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/Kunal1223/LeetCode/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kunal1223/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Stack
@@ -96,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0724-find-pivot-index](https://github.com/Kunal1223/LeetCode/tree/master/0724-find-pivot-index) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
+| [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Kunal1223/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -213,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting Sort
 |  |
 | ------- |
+| [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Kunal1223/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Kunal1223/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Kunal1223/LeetCode/tree/master/1217-relative-sort-array) |
