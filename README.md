@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kunal1223/LeetCode/tree/master/0009-palindrome-number) |
+| [0728-self-dividing-numbers](https://github.com/Kunal1223/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunal1223/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/Kunal1223/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Kunal1223/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
