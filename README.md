@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kunal1223/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunal1223/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/Kunal1223/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Kunal1223/LeetCode/tree/master/2050-count-good-numbers) |
 # Math
 |  |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/Kunal1223/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunal1223/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/Kunal1223/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/Kunal1223/LeetCode/tree/master/1013-fibonacci-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Kunal1223/LeetCode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Kunal1223/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Kunal1223/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/0022-generate-parentheses) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kunal1223/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1013-fibonacci-number](https://github.com/Kunal1223/LeetCode/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Kunal1223/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Kunal1223/LeetCode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
@@ -240,3 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Kunal1223/LeetCode/tree/master/1039-find-the-town-judge) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kunal1223/LeetCode/tree/master/1013-fibonacci-number) |
