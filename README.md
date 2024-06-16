@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Kunal1223/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Kunal1223/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Kunal1223/LeetCode/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/Kunal1223/LeetCode/tree/master/0134-gas-station) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/Kunal1223/LeetCode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Kunal1223/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Kunal1223/LeetCode/tree/master/0494-target-sum) |
 # Prefix Sum
