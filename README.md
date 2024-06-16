@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Kunal1223/LeetCode/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/Kunal1223/LeetCode/tree/master/0330-patching-array) |
 | [0457-circular-array-loop](https://github.com/Kunal1223/LeetCode/tree/master/0457-circular-array-loop) |
+| [0494-target-sum](https://github.com/Kunal1223/LeetCode/tree/master/0494-target-sum) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0724-find-pivot-index](https://github.com/Kunal1223/LeetCode/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/Kunal1223/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/Kunal1223/LeetCode/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kunal1223/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/Kunal1223/LeetCode/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Kunal1223/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/Kunal1223/LeetCode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Kunal1223/LeetCode/tree/master/0494-target-sum) |
 # Prefix Sum
 |  |
 | ------- |
