@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3408-count-the-number-of-special-characters-i](https://github.com/Kunal1223/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Kunal1223/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Kunal1223/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Kunal1223/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/Kunal1223/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kunal1223/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kunal1223/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Kunal1223/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Kunal1223/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Kunal1223/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Stack
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Kunal1223/LeetCode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Kunal1223/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Kunal1223/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Kunal1223/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Sliding Window
 |  |
 | ------- |
@@ -192,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1121-partition-array-for-maximum-sum](https://github.com/Kunal1223/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Kunal1223/LeetCode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Kunal1223/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Kunal1223/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Greedy
 |  |
 | ------- |
@@ -243,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/Kunal1223/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Kunal1223/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Geometry
 |  |
 | ------- |
@@ -257,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Kunal1223/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Kunal1223/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Kunal1223/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Breadth-First Search
 |  |
 | ------- |
