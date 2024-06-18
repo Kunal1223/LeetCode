@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-count-good-numbers](https://github.com/Kunal1223/LeetCode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Kunal1223/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 # Number Theory
 |  |
 | ------- |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Kunal1223/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Kunal1223/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 # Dynamic Programming
 |  |
 | ------- |
