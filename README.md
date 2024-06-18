@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Kunal1223/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Kunal1223/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Kunal1223/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Kunal1223/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # String
 |  |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kunal1223/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Kunal1223/LeetCode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Kunal1223/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Kunal1223/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Sliding Window
 |  |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Kunal1223/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Kunal1223/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Kunal1223/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Kunal1223/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Breadth-First Search
 |  |
