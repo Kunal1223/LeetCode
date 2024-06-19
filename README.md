@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Kunal1223/LeetCode/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/Kunal1223/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Kunal1223/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/Kunal1223/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
 | [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Kunal1223/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Kunal1223/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 # Array
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Kunal1223/LeetCode/tree/master/0494-target-sum) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0724-find-pivot-index](https://github.com/Kunal1223/LeetCode/tree/master/0724-find-pivot-index) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Kunal1223/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Kunal1223/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/Kunal1223/LeetCode/tree/master/0835-linked-list-components) |
 | [0853-most-profit-assigning-work](https://github.com/Kunal1223/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Kunal1223/LeetCode/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/Kunal1223/LeetCode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Kunal1223/LeetCode/tree/master/0409-longest-palindrome) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Kunal1223/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Kunal1223/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/Kunal1223/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Kunal1223/LeetCode/tree/master/0876-hand-of-straights) |
@@ -280,3 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Kunal1223/LeetCode/tree/master/1013-fibonacci-number) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Kunal1223/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
