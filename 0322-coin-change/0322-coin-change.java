@@ -1,34 +1,38 @@
 class Solution {
-    
-    public int solveByTabulation(int[]coins  , int amount){
-        
-        int max = Integer.MAX_VALUE;
-        
-        int []dp = new int[amount+1];
-        Arrays.fill(dp , max);
-        
-        dp[0] = 0;
-        
-        for(int i = 1 ; i <= amount ; i++){
-            for(int j  = 0 ; j < coins.length ; j++ ){
 
-                if(i - coins[j] >= 0 && dp[i - coins[j]] != max){
-                    dp[i] = Math.min(dp[i] , 1 + dp[i - coins[j]]);
-                }
+    public int SolveByRecursion(int []coins , int amount , int ind , int[][] dp){
+        if(ind == 0){
+            if(amount % coins[0] == 0){
+                return amount / coins[0];
+            }
+            else{
+                return (int) Math.pow(10 , 9);
             }
         }
-        
-        if(dp[amount] == max)
-            return -1;
-        
-        else
-            return dp[amount];
+
+        if(dp[ind][amount] != -1) return dp[ind][amount];
+
+        int nottake = 0 + SolveByRecursion(coins , amount , ind -1 , dp);
+        int take = (int) Math.pow(10 , 9);
+
+        if(coins[ind] <= amount){
+            take = 1 + SolveByRecursion(coins , amount - coins[ind] , ind , dp);
+        }
+
+        return dp[ind][amount] = Math.min(take , nottake);
     }
-    
-    
+
     public int coinChange(int[] coins, int amount) {
-        
-        return solveByTabulation(coins , amount);
-        
+        int n = coins.length;
+        int dp[][] = new int[n+1][amount+1];
+
+        for(int a[] : dp){
+            Arrays.fill(a , -1);
+        }
+
+        int ans = SolveByRecursion(coins , amount , n-1  , dp);
+
+        if(ans >= (int) Math.pow(10 , 9)) return -1;
+        else return ans;
     }
 }
