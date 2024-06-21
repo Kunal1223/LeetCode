@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Kunal1223/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Kunal1223/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kunal1223/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/Kunal1223/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 # Sliding Window
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Kunal1223/LeetCode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Kunal1223/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kunal1223/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/Kunal1223/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 # Greedy
 |  |
 | ------- |
