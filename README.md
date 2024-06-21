@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Kunal1223/LeetCode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Kunal1223/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Kunal1223/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Kunal1223/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kunal1223/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 # Sliding Window
 |  |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-count-good-numbers](https://github.com/Kunal1223/LeetCode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Kunal1223/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Kunal1223/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 # Number Theory
 |  |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Kunal1223/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Kunal1223/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Kunal1223/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Kunal1223/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 # Dynamic Programming
 |  |
@@ -249,10 +252,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Kunal1223/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Kunal1223/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 # Combinatorics
 |  |
 | ------- |
 | [3388-right-triangles](https://github.com/Kunal1223/LeetCode/tree/master/3388-right-triangles) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Kunal1223/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 # Bit Manipulation
 |  |
 | ------- |
