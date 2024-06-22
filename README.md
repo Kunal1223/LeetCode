@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Kunal1223/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kunal1223/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kunal1223/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/Kunal1223/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Kunal1223/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kunal1223/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Kunal1223/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Kunal1223/LeetCode/tree/master/0883-car-fleet) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/Kunal1223/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Kunal1223/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 # Array
