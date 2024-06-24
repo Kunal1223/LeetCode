@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kunal1223/LeetCode/tree/master/0009-palindrome-number) |
+| [0279-perfect-squares](https://github.com/Kunal1223/LeetCode/tree/master/0279-perfect-squares) |
 | [0728-self-dividing-numbers](https://github.com/Kunal1223/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunal1223/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/Kunal1223/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/0022-generate-parentheses) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kunal1223/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0279-perfect-squares](https://github.com/Kunal1223/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kunal1223/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kunal1223/LeetCode/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kunal1223/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Kunal1223/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kunal1223/LeetCode/tree/master/0322-coin-change) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 # Graph
