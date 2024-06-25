@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Kunal1223/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Kunal1223/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Kunal1223/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Kunal1223/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kunal1223/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Kunal1223/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kunal1223/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/Kunal1223/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Kunal1223/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Kunal1223/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kunal1223/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Kunal1223/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kunal1223/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -323,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0959-3sum-with-multiplicity](https://github.com/Kunal1223/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Kunal1223/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Kunal1223/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1137-height-checker](https://github.com/Kunal1223/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Kunal1223/LeetCode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
