@@ -367,18 +367,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kunal1223/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0975-range-sum-of-bst](https://github.com/Kunal1223/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunal1223/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/Kunal1223/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunal1223/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kunal1223/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0975-range-sum-of-bst](https://github.com/Kunal1223/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunal1223/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Kunal1223/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0975-range-sum-of-bst](https://github.com/Kunal1223/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunal1223/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
