@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Kunal1223/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/Kunal1223/LeetCode/tree/master/1916-find-center-of-star-graph) |
 # Memoization
 |  |
 | ------- |
