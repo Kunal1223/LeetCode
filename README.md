@@ -339,10 +339,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0279-perfect-squares](https://github.com/Kunal1223/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kunal1223/LeetCode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Kunal1223/LeetCode/tree/master/0547-number-of-provinces) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 # Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kunal1223/LeetCode/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/Kunal1223/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Kunal1223/LeetCode/tree/master/1916-find-center-of-star-graph) |
 # Memoization
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kunal1223/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/Kunal1223/LeetCode/tree/master/0547-number-of-provinces) |
 | [0975-range-sum-of-bst](https://github.com/Kunal1223/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunal1223/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunal1223/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
@@ -407,3 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunal1223/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Kunal1223/LeetCode/tree/master/0547-number-of-provinces) |
