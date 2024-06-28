@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kunal1223/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kunal1223/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kunal1223/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/Kunal1223/LeetCode/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kunal1223/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/Kunal1223/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kunal1223/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Kunal1223/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Kunal1223/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Kunal1223/LeetCode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Kunal1223/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Kunal1223/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Kunal1223/LeetCode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Kunal1223/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 # Graph
 |  |
