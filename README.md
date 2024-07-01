@@ -426,10 +426,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kunal1223/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kunal1223/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -443,5 +445,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Kunal1223/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
