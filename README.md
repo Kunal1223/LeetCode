@@ -478,4 +478,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunal1223/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0804-rotated-digits](https://github.com/Kunal1223/LeetCode/tree/master/0804-rotated-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0804-rotated-digits](https://github.com/Kunal1223/LeetCode/tree/master/0804-rotated-digits) |
 <!---LeetCode Topics End-->
