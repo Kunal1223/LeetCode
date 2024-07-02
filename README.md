@@ -484,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0804-rotated-digits](https://github.com/Kunal1223/LeetCode/tree/master/0804-rotated-digits) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/Kunal1223/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
