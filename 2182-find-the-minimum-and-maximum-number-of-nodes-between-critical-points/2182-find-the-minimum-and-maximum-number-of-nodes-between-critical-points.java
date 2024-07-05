@@ -15,7 +15,7 @@ class Solution {
         ListNode temp = head;
         int p = 0;
 
-        while(temp != null && temp.next != null && temp.next.next != null){
+        while(temp.next.next != null){
             int x = temp.val;
             int y = temp.next.val;
             int z = temp.next.next.val;
