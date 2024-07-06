@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunal1223/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kunal1223/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0735-asteroid-collision](https://github.com/Kunal1223/LeetCode/tree/master/0735-asteroid-collision) |
 | [0852-friends-of-appropriate-ages](https://github.com/Kunal1223/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2342-minimum-average-difference](https://github.com/Kunal1223/LeetCode/tree/master/2342-minimum-average-difference) |
@@ -519,10 +520,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Kunal1223/LeetCode/tree/master/0735-asteroid-collision) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Kunal1223/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Kunal1223/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2342-minimum-average-difference](https://github.com/Kunal1223/LeetCode/tree/master/2342-minimum-average-difference) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Kunal1223/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
