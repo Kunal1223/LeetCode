@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kunal1223/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/Kunal1223/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Divide and Conquer
 |  |
@@ -547,8 +548,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kunal1223/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kunal1223/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
