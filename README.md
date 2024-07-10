@@ -560,4 +560,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kunal1223/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Kunal1223/LeetCode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
