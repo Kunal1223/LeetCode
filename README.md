@@ -460,10 +460,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2342-minimum-average-difference](https://github.com/Kunal1223/LeetCode/tree/master/2342-minimum-average-difference) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Greedy
 |  |
 | ------- |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2342-minimum-average-difference](https://github.com/Kunal1223/LeetCode/tree/master/2342-minimum-average-difference) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Stack
 |  |
 | ------- |
