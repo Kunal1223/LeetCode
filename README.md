@@ -460,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2342-minimum-average-difference](https://github.com/Kunal1223/LeetCode/tree/master/2342-minimum-average-difference) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Matrix
 |  |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kunal1223/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0917-boats-to-save-people](https://github.com/Kunal1223/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Sorting
 |  |
 | ------- |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunal1223/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -569,4 +572,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1153-product-sales-analysis-i](https://github.com/Kunal1223/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Kunal1223/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Kunal1223/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Counting
+|  |
+| ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 <!---LeetCode Topics End-->
