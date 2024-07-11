@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Kunal1223/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Kunal1223/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2342-minimum-average-difference](https://github.com/Kunal1223/LeetCode/tree/master/2342-minimum-average-difference) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunal1223/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-friends-of-appropriate-ages](https://github.com/Kunal1223/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0917-boats-to-save-people](https://github.com/Kunal1223/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Kunal1223/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Kunal1223/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Kunal1223/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Kunal1223/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Kunal1223/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Kunal1223/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
