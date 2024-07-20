@@ -464,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/Kunal1223/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Kunal1223/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1762-furthest-building-you-can-reach](https://github.com/Kunal1223/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1803-average-waiting-time](https://github.com/Kunal1223/LeetCode/tree/master/1803-average-waiting-time) |
 | [1876-map-of-highest-peak](https://github.com/Kunal1223/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kunal1223/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0917-boats-to-save-people](https://github.com/Kunal1223/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Kunal1223/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1762-furthest-building-you-can-reach](https://github.com/Kunal1223/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kunal1223/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1762-furthest-building-you-can-reach](https://github.com/Kunal1223/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
