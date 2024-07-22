@@ -461,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/Kunal1223/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0917-boats-to-save-people](https://github.com/Kunal1223/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Kunal1223/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Kunal1223/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1364-tuple-with-same-product](https://github.com/Kunal1223/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Kunal1223/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Kunal1223/LeetCode/tree/master/0726-number-of-atoms) |
 | [0852-friends-of-appropriate-ages](https://github.com/Kunal1223/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0917-boats-to-save-people](https://github.com/Kunal1223/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Kunal1223/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Kunal1223/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2502-sort-the-people](https://github.com/Kunal1223/LeetCode/tree/master/2502-sort-the-people) |
