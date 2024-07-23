@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kunal1223/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0563-binary-tree-tilt](https://github.com/Kunal1223/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Kunal1223/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kunal1223/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Kunal1223/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kunal1223/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0563-binary-tree-tilt](https://github.com/Kunal1223/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Kunal1223/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kunal1223/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Kunal1223/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -670,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kunal1223/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0563-binary-tree-tilt](https://github.com/Kunal1223/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Kunal1223/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kunal1223/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Kunal1223/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
