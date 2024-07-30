@@ -566,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-rotated-digits](https://github.com/Kunal1223/LeetCode/tree/master/0804-rotated-digits) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kunal1223/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Kunal1223/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kunal1223/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Kunal1223/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 ## String
 |  |
@@ -574,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Kunal1223/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Kunal1223/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kunal1223/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kunal1223/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Kunal1223/LeetCode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Kunal1223/LeetCode/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kunal1223/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Recursion
