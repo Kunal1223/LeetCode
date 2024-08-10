@@ -563,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kunal1223/LeetCode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/Kunal1223/LeetCode/tree/master/0070-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/Kunal1223/LeetCode/tree/master/0804-rotated-digits) |
 | [0870-magic-squares-in-grid](https://github.com/Kunal1223/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Kunal1223/LeetCode/tree/master/1642-water-bottles) |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kunal1223/LeetCode/tree/master/0070-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/Kunal1223/LeetCode/tree/master/0804-rotated-digits) |
 | [1196-filling-bookcase-shelves](https://github.com/Kunal1223/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kunal1223/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -748,4 +750,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Kunal1223/LeetCode/tree/master/1511-count-number-of-teams) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kunal1223/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
