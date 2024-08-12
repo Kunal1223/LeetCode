@@ -575,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kunal1223/LeetCode/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/Kunal1223/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0804-rotated-digits](https://github.com/Kunal1223/LeetCode/tree/master/0804-rotated-digits) |
 | [1196-filling-bookcase-shelves](https://github.com/Kunal1223/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kunal1223/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kunal1223/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/Kunal1223/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0726-number-of-atoms](https://github.com/Kunal1223/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kunal1223/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Kunal1223/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Kunal1223/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0813-all-paths-from-source-to-target](https://github.com/Kunal1223/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kunal1223/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Enumeration
