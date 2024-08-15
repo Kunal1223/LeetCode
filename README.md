@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/Kunal1223/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Kunal1223/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Kunal1223/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kunal1223/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kunal1223/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Kunal1223/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Kunal1223/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Kunal1223/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/Kunal1223/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunal1223/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunal1223/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kunal1223/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0852-friends-of-appropriate-ages](https://github.com/Kunal1223/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Kunal1223/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
