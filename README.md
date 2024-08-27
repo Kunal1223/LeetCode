@@ -492,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/Kunal1223/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Kunal1223/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Kunal1223/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Kunal1223/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kunal1223/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
