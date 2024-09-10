@@ -504,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Kunal1223/LeetCode/tree/master/2502-sort-the-people) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Kunal1223/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Kunal1223/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Matrix
 |  |
 | ------- |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunal1223/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Kunal1223/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Kunal1223/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Sorting
 |  |
 | ------- |
