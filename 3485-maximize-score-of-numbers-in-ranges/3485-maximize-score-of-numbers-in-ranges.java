@@ -10,6 +10,7 @@ class Solution {
 
             if(isValid(start, d, mid)){
                 res = mid;
+                System.out.println(mid);
                 low = mid + 1;
             }
 
