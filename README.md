@@ -502,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-minimum-average-difference](https://github.com/Kunal1223/LeetCode/tree/master/2342-minimum-average-difference) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2502-sort-the-people](https://github.com/Kunal1223/LeetCode/tree/master/2502-sort-the-people) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Kunal1223/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Matrix
 |  |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kunal1223/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunal1223/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Kunal1223/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/Kunal1223/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/Kunal1223/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunal1223/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Kunal1223/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -572,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kunal1223/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0852-friends-of-appropriate-ages](https://github.com/Kunal1223/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Kunal1223/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Kunal1223/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Math
 |  |
 | ------- |
