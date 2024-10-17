@@ -436,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kunal1223/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kunal1223/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Kunal1223/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Kunal1223/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunal1223/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Kunal1223/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Kunal1223/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -743,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kunal1223/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Kunal1223/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Kunal1223/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -754,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Kunal1223/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kunal1223/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Kunal1223/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Kunal1223/LeetCode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
