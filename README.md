@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Kunal1223/LeetCode/tree/master/1803-average-waiting-time) |
 | [1876-map-of-highest-peak](https://github.com/Kunal1223/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1972-rotating-the-box](https://github.com/Kunal1223/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Kunal1223/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kunal1223/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Kunal1223/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/Kunal1223/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1972-rotating-the-box](https://github.com/Kunal1223/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Kunal1223/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Greedy
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kunal1223/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0852-friends-of-appropriate-ages](https://github.com/Kunal1223/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0917-boats-to-save-people](https://github.com/Kunal1223/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1972-rotating-the-box](https://github.com/Kunal1223/LeetCode/tree/master/1972-rotating-the-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kunal1223/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
