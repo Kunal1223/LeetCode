@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Kunal1223/LeetCode/tree/master/1803-average-waiting-time) |
 | [1876-map-of-highest-peak](https://github.com/Kunal1223/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2089-maximum-matrix-sum](https://github.com/Kunal1223/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kunal1223/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Kunal1223/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -517,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Kunal1223/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/Kunal1223/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2089-maximum-matrix-sum](https://github.com/Kunal1223/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Greedy
 |  |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1762-furthest-building-you-can-reach](https://github.com/Kunal1223/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Kunal1223/LeetCode/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2089-maximum-matrix-sum](https://github.com/Kunal1223/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kunal1223/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kunal1223/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
