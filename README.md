@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-minimum-average-difference](https://github.com/Kunal1223/LeetCode/tree/master/2342-minimum-average-difference) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2502-sort-the-people](https://github.com/Kunal1223/LeetCode/tree/master/2502-sort-the-people) |
+| [2868-continuous-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Kunal1223/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Kunal1223/LeetCode/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -649,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Kunal1223/LeetCode/tree/master/0948-sort-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kunal1223/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2868-continuous-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kunal1223/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Quickselect
 |  |
@@ -694,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kunal1223/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2868-continuous-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -728,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kunal1223/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/Kunal1223/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kunal1223/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2868-continuous-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Kunal1223/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kunal1223/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Backtracking
@@ -805,4 +809,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kunal1223/LeetCode/tree/master/0070-climbing-stairs) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
