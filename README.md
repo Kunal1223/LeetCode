@@ -568,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/Kunal1223/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Kunal1223/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Kunal1223/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Kunal1223/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Kunal1223/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Kunal1223/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2502-sort-the-people](https://github.com/Kunal1223/LeetCode/tree/master/2502-sort-the-people) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Kunal1223/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kunal1223/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kunal1223/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Kunal1223/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Kunal1223/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kunal1223/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kunal1223/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -676,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Kunal1223/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2342-minimum-average-difference](https://github.com/Kunal1223/LeetCode/tree/master/2342-minimum-average-difference) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kunal1223/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Stack
@@ -703,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Kunal1223/LeetCode/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal1223/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Kunal1223/LeetCode/tree/master/0476-number-complement) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Kunal1223/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kunal1223/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Database
 |  |
