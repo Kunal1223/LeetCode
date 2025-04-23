@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kunal1223/LeetCode/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal1223/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Kunal1223/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kunal1223/LeetCode/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
 | [0870-magic-squares-in-grid](https://github.com/Kunal1223/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Kunal1223/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -600,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kunal1223/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Kunal1223/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Kunal1223/LeetCode/tree/master/0070-climbing-stairs) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kunal1223/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0804-rotated-digits](https://github.com/Kunal1223/LeetCode/tree/master/0804-rotated-digits) |
