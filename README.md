@@ -462,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kunal1223/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Kunal1223/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Kunal1223/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Kunal1223/LeetCode/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/Kunal1223/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Kunal1223/LeetCode/tree/master/0130-surrounded-regions) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal1223/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Kunal1223/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kunal1223/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Kunal1223/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kunal1223/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Kunal1223/LeetCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Kunal1223/LeetCode/tree/master/0870-magic-squares-in-grid) |
