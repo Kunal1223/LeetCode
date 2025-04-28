@@ -9,45 +9,38 @@
  * }
  */
 class Solution {
-    
-    public ListNode SolveByMe(ListNode ans ,ListNode list1, ListNode list2){
-        
-        ListNode temp = ans;
-
-        while(list1 != null && list2 != null){
-            
-            if(list1.val >= list2.val){
-                temp.next  = list2;
-                list2 = list2.next;
-                temp = temp.next;
-            }else{
-                temp.next = list1;
-                list1 = list1.next;
-                temp = temp.next;
-            }
-        }
-        
-        while(list1 != null){
-                temp.next  = list1;
-                list1 = list1.next;
-                temp = temp.next;
-        }
-        
-        while(list2 != null){
-                temp.next  = list2;
-                list2 = list2.next;
-                temp = temp.next;
-        }
-        
-        return ans.next;
-    }
-    
-    
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        
-        ListNode ans = new ListNode(-1);
-        
-        return SolveByMe(ans , list1 , list2);
-        
+        ListNode newNode = new ListNode(0);
+        ListNode curr = newNode;
+
+        ListNode curr1 = list1;
+        ListNode curr2 = list2;
+
+        while(curr1 != null && curr2 != null){
+            if(curr1.val < curr2.val){
+                curr.next = curr1;
+                curr1 = curr1.next;
+            }
+            else{
+                curr.next = curr2;
+                curr2 = curr2.next;
+            }
+            
+            curr = curr.next;
+        }
+
+        while(curr1 != null){
+            curr.next = curr1;
+            curr1 = curr1.next;
+            curr = curr.next;
+        }
+
+        while(curr2 != null){
+            curr.next = curr2;
+            curr2 = curr2.next;
+            curr = curr.next;
+        }
+
+        return newNode.next;
     }
 }
