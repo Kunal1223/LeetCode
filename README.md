@@ -487,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/Kunal1223/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Kunal1223/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Kunal1223/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kunal1223/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1364-tuple-with-same-product](https://github.com/Kunal1223/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kunal1223/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -614,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/Kunal1223/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0804-rotated-digits](https://github.com/Kunal1223/LeetCode/tree/master/0804-rotated-digits) |
 | [0870-magic-squares-in-grid](https://github.com/Kunal1223/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Kunal1223/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kunal1223/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/Kunal1223/LeetCode/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Kunal1223/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
